@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "450459573089",
+    "firebase_url": "https://wheatherapp-8b182.firebaseio.com",
+    "project_id": "wheatherapp-8b182",
+    "storage_bucket": "wheatherapp-8b182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450459573089:android:52894a6581eba62b",
+        "android_client_info": {
+          "package_name": "com.example.wheatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450459573089-1843o7otkhg6tce5853g2dc55qmaomea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrIhtMhf-CruNTNIFe8vsNVUWh29_aiZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
